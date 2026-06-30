@@ -13,4 +13,4 @@ Versi clean & profesional
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceritasianton05&show_icons=true&theme=github_dark&hide_border=true)
+https://github-readme-stats.vercel.app/api?username=ceritasianton05

@@ -6,7 +6,7 @@
 
 🌱 Currently learning AI Automation
 
-📫 anton@email.com
+📫 ceritasianton@gmail.com
 
 ## Tech Stack
 
@@ -18,8 +18,8 @@
 
 ## Github Stats
 
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceritasianton05&show_icons=true)
 
 ## Most Used Language
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceritasianton05&layout=compact)
